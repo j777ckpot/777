@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=j777ckpot&color=774242&label=chips_spent)
+  ![](https://komarev.com/ghpvc/?username=j777ckpot&color=774242&label=studs_in_debt)
   
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1443199971187757056/tumblr_5d32560113f26940d7261f6993b007d0_347ef70b_1280.png?ex=69301d36&is=692ecbb6&hm=376ada858b196c2ae2d1ce596b82f8352b1c112d4925025d83f44258b733b40f&=&format=webp&quality=lossless" width="800" height="800" alt="Image"/> <br/>
 
@@ -23,5 +23,5 @@ $${\color{#774242} ㅤi⠀will⠀always⠀keep⠀the⠀answerㅤ»}$$ <br/>
 
 <details>
   <summary></summary>
-don sonnellino's personal boywhore <br/>
+don sonnellino's personal boywhore and husband <br/>
 🤤
