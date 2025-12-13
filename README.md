@@ -22,11 +22,6 @@
 ㅤ<br/>
 ㅤ<br/>
 
-<details>
-  <summary>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ✦ㅤ</summary>
-  ㅤ<br/>
-  don sonnellino's personal boywhore and husband <br/>
-  ㅤ<br/>
   <details>
   <summary>ㅤshiny button collectionㅤ(ever-growing/wip)ㅤ ㅤ ㅤㅤ✦ㅤ</summary>
   ㅤ<br/>
