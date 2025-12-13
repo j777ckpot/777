@@ -30,6 +30,9 @@
   <details>
   <summary>ㅤshiny button collectionㅤ(ever-growing/wip)ㅤ ㅤ ㅤㅤ✦ㅤ</summary>
   ㅤ<br/>
+  all of the buttons i collect apply to me/my interests in one way or another <br/>
+  some of these may or may not be broken i'm too lazy to figure out how to fix them <br/>
+  ㅤ<br/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449245761538887720/spade.gif?ex=693e32cb&is=693ce14b&hm=47aa5e1666d1f18405306ca3abf50381ef0cced104c637d2f7ae6817d399faa8&=" width="50" height="20" alt="spade"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449246982295126077/entity.gif?ex=693e33ee&is=693ce26e&hm=6dc8ebdb041fbbd63e294e1c6d212e1b0c8e1865e7570fe60cb18c8db9a635c7&=" width="60" height="20" alt="entity"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449244740284579951/gambler.gif?ex=693e31d7&is=693ce057&hm=12a91865aa41657ec78e1902e8cc32e906425fdabe8d0e84d392f3609a4a13d4&=" width="100" height="20" alt="gambler"/>
@@ -47,8 +50,15 @@
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449248607596187678/john_doe_1.gif?ex=693e3571&is=693ce3f1&hm=9647501f3c628e243dd7ef6f36407734a632b469fcad52c9b79b7f3abe294c57&=" width="105" height="18" alt="john doe 1"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449249868425203834/john_doe_2.gif?ex=693e369e&is=693ce51e&hm=39f154037722c01d5e20243f22709be0cbbc5c6e0cc0ab24912c7b37e10f7150&=" width="105" height="18" alt="john doe 2"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449250073170153623/john_doe_3.gif?ex=693e36cf&is=693ce54f&hm=be7ff7667cdba9df4a9da09b3e9a2118213f057f7950578184346995fe1cec2a&=" width="140" height="18" alt="john doe 3"/>
-
-
-
+  ㅤ<br/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449389846249472032/pork_soda.gif?ex=693eb8fb&is=693d677b&hm=95bd23793404d52cab561f544f4693b06a15be951dc4f33c8f0c746928268723&=" width="85" height="18" alt="pork soda"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449386777986076703/pumpkin.gif?ex=693eb620&is=693d64a0&hm=cefdfd7379b637c80149cc3b00e95a6ecd39cb1849bdf15c9197728dc28429f3&=" width="80" height="18" alt="pumpkin"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449386259180163092/halloween_2.gif?ex=693eb5a4&is=693d6424&hm=6839084290c8d046c82ddd8f74953109f94c909c4705afe5e239b8c42d542a29&=" width="90" height="18" alt="halloween 2"/>
+  ㅤ<br/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449387244543676426/jolteon.gif?ex=693eb68f&is=693d650f&hm=a3f8e6b41cf4a67fd06aac3dc113e7695bcc39ea5e8bc39392a06e5a91f3a038&=" width="70" height="18" alt="jolteon"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449388625375662252/umbreon.gif?ex=693eb7d8&is=693d6658&hm=6e62dfe22bb635d4ff6988f5ec0e92e20dba18920e70614df5c54f816da9094d&=" width="70" height="18" alt="umbreon"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449388984890560563/LCB.gif?ex=693eb82e&is=693d66ae&hm=cec31c307562cd7cb62ecec40fc84a8ea37df5498b2807e9fcebd35d6795b0d1&=" width="40" height="18" alt="LCB"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449389247772495983/limbus_company.gif?ex=693eb86d&is=693d66ed&hm=0ee3606b71dcd601f9017a2bad2cc985bd3b042d8d15d473f8b1f45b53ba91ae&=" width="140" height="18" alt="limbus company"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449389257356742737/limbus_2.gif?ex=693eb86f&is=693d66ef&hm=3d4456def7eb658ff9ea935adf07235aea3b4d6e412e8f5d9a9f3014e2d5812b&=" width="70" height="18" alt="limbus"/>
 ㅤ<br/>
 ㅤ<br/>
