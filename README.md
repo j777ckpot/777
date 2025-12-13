@@ -23,7 +23,7 @@
 ㅤ<br/>
 
   <details>
-  <summary>ㅤshiny button collectionㅤ(ever-growing/wip)ㅤ ㅤ ㅤㅤ✦ㅤ</summary>
+  <summary>ㅤshiny button collectionㅤ(ever-growing/wip)ㅤㅤㅤㅤㅤ✦ㅤ</summary>
   ㅤ<br/>
   all of the buttons i collect apply to me/my interests in one way or another <br/>
   some of these may or may not be broken i'm too lazy to figure out how to fix them <br/>
