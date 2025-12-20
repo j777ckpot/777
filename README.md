@@ -32,7 +32,7 @@
   <img src="https://files.catbox.moe/hvjrud.gif" width="75" height="18" alt="comedy"/>
   <img src="https://files.catbox.moe/c8amq0.gif" width="60" height="18" alt="entity"/>
   <img src="https://files.catbox.moe/x7x3ql.webp" width="60" height="18" alt="tragic"/>
-  <img src="https://files.catbox.moe/tp3mkf.gif" width="75" height="18" alt="tragedy"/>
+  <img src="https://files.catbox.moe/tp3mkf.gif" width="80" height="18" alt="tragedy"/>
   <img src="https://files.catbox.moe/4k2wvv.gif" width="95" height="18" alt="gambler"/>
   <img src="https://files.catbox.moe/k2vre3.gif" width="95" height="18" alt="sentinel"/>
   <img src="https://files.catbox.moe/36n99z.gif" width="80" height="18" alt="chance"/>
@@ -87,6 +87,13 @@
   <img src="https://files.catbox.moe/yuzv1i.gif" width="90" height="18" alt="1x1x1x1"/>
   <img src="https://files.catbox.moe/yssxbk.gif" width="140" height="18" alt="mass infection"/>
   <img src="https://files.catbox.moe/agurvh.gif" width="60" height="18" alt="kwite"/>
+  ㅤ<br/>
+  <img src="https://files.catbox.moe/7ngc4b.gif" width="105" height="18" alt="yaoi lover"/>
+  <img src="https://files.catbox.moe/mokmyf.gif" width="100" height="18" alt="it's tv time"/>
+  ㅤ<br/>
+  <img src="https://files.catbox.moe/bgcsl0.gif" width="60" height="18" alt="sinner"/>
+  <img src="https://files.catbox.moe/y0x44o.gif" width="60" height="18" alt="medkit"/>
+  <img src="https://files.catbox.moe/urzv06.gif" width="60" height="18" alt="medkit 2"/>
 ㅤ<br/>
   <br/>
-  last update:ㅤ12/19/2025, 7:23am <br/>
+  last update:ㅤ12/20/2025, 10:47pm <br/>
