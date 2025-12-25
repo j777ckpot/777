@@ -8,7 +8,7 @@
 <br/>
 
 **jhariah,⠀captain,⠀jacques,⠀chance**ㅤ+ *other* <br/>
-7teen,ㅤhe/him
+8teen,ㅤhe/him
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Radley&duration=8500&pause=1000&color=374455&center=true&vCenter=true&repeat=false&width=435&lines=your+eyes+are" alt="Typing SVG" /></a> <br/>
 <img src="https://files.catbox.moe/oucts7.png" width="450" height="500" alt="Image"/> <br/>
@@ -96,4 +96,4 @@
   <img src="https://files.catbox.moe/urzv06.gif" width="60" height="18" alt="medkit 2"/>
 ㅤ<br/>
   <br/>
-  last update:ㅤ12/20/2025, 10:47pm <br/>
+  last update:ㅤ12/25/2025, 01:22pm <br/>
